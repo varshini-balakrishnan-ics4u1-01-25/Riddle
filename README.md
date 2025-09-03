@@ -1,2 +1,0 @@
-# Riddle
-Riddle repository
